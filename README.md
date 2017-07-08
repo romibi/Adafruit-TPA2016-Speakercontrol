@@ -1,5 +1,5 @@
 # Adafruit-TPA2016-Speakercontrol
-A small project to control the Adafruit AMP from Raspberry Pi terminal. Used in my Super Game Pi
+A small project to control the [Adafruit AMP](https://www.adafruit.com/product/1712) from Raspberry Pi terminal. Used in my [Super Game Pi](https://learn.adafruit.com/super-game-pi/overview)
 
 ## Build
 don't forget
