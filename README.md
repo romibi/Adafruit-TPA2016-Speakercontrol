@@ -1,12 +1,24 @@
 # Adafruit-TPA2016-Speakercontrol
 A small project to control the Adafruit AMP from Raspberry Pi terminal. Used in my Super Game Pi
 
+## Build
+don't forget
+```
+git submodule init
+git submodule update
+```
+
+make sure you have installed:
+* g++
+* wiringPi
+* boost (boost program options)
+* ncurses
+
 compile using compile.sh
 
 (I know something like a makefile or cmake would be nicer)
 
-
-usage:
+## Usage
 ```
 speakercontrol --getGain
 speakercontrol --setGain 3
