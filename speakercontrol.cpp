@@ -1,4 +1,4 @@
-#include "Adafruit_TPA2016.cpp"
+#include "tpa2016/Adafruit_TPA2016.cpp"
 #include <iostream>
 #include <boost/program_options.hpp>
 #include <curses.h>
